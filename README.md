@@ -1,2 +1,1 @@
-# ReactDebuggingLab
-Lab on debugging and application
+# react-debugging
